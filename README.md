@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/pratishth@_33" target="blank"><img src="https://img.shields.io/twitter/follow/pratishth@_33?logo=twitter&style=for-the-badge" alt="pratishth@_33" /></a> </p>
 
-- GDG Google Member
+
 🌱 I’m currently learning **Web development, App Development**
--  
+-  GDG Google Member
 - 📫 How to reach me **singhpratishtha790@gmail.com**
 - Doing Blogging as a  side hustle.
 <h3 align="left">Connect with me:</h3>
