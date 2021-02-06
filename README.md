@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratishtha Singh, 1 Year student.</h1>
-<h3 align="center">An Exuberant tech Enthusiast self tought programmer. coding and designing fascinates me !!like to Explore new technologies and software..</h3>
+<h3 align="center">An Exuberant tech Enthusiast self tought programmer || coding and designing fascinates me !! || like to Explore new technologies and software..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratishtha33&label=Profile%20views&color=0e75b6&style=flat" alt="pratishtha33" /> </p>
 
