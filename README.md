@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pratishtha Singh, 1 Year student.</h1>
+<h1 align="center">Hi 👋, I'm Pratishtha Singh </h1>
+<h2 align="center"> GDG google member || girlscript scholar </h2>
 <h3 align="center">An Exuberant tech Enthusiast self tought programmer || coding and designing fascinates me !! || like to Explore new technologies and software..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratishtha33&label=Profile%20views&color=0e75b6&style=flat" alt="pratishtha33" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pratishth@_33" target="blank"><img src="https://img.shields.io/twitter/follow/pratishth@_33?logo=twitter&style=for-the-badge" alt="pratishth@_33" /></a> </p>
+
 
 - 🌱 I’m currently learning **Web development, App Development**
 
