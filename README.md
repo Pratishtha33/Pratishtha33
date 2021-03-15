@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratishtha Singh</h1>
-<h3 align="center">Hello, I am Patishtha Singh . I love the World of Coding and trying to create magic with coding and creativity.</h3>
+<h3 align="center">Girlscript Scholar ||GDG Member || Participant in GSsoc'21 I love the World of Coding and trying to create magic with coding and creativity.</h3>
 
 <p align="left"> <a href="https://twitter.com/@dreamerrr33" target="blank"><img src="https://img.shields.io/twitter/follow/@dreamerrr33?logo=twitter&style=for-the-badge" alt="@dreamerrr33" /></a> </p>
 
@@ -15,7 +15,7 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2
 
 - 📫 How to reach me **singhpratishtha790@gmail.com**
 
-- //📄 Know about my experiences [Girlscript Scholar ||GDG Member || Participant in GSsoc'21](Girlscript Scholar ||GDG Member || Participant in GSsoc'21)
+ -I love the World of Coding and trying to create magic with coding and creativity.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
