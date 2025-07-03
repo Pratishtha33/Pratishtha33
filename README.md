@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratishtha Singh</h1> <h3 align="center">SDE 1 | Full Stack Developer | Girlscript Scholar | GDG Member | GSsoc'21 Alum</h3> <p align="center"> <a href="https://twitter.com/dreamerrr33" target="_blank"> <img src="https://img.shields.io/twitter/follow/dreamerrr33?logo=twitter&style=for-the-badge" alt="Twitter Follow"> </a> </p> <img align="right" alt="Coding" width="400" src="https://png.pngtree.com/png-clipart/20190922/original/pngtree-overlooking-the-programmers-office-work-png-image_4774976.jpg">
+<h1 align="center">Hi 👋, I'm Pratishtha Singh</h1> <h3 align="center">SDE 1 | Full Stack Developer </h3> <p align="center"> <a href="https://twitter.com/dreamerrr33" target="_blank"> <img src="https://img.shields.io/twitter/follow/dreamerrr33?logo=twitter&style=for-the-badge" alt="Twitter Follow"> </a> </p> <img align="right" alt="Coding" width="400" 
 
 💻 I'm currently working as an SDE 1, building end-to-end solutions in Full Stack Development
 
